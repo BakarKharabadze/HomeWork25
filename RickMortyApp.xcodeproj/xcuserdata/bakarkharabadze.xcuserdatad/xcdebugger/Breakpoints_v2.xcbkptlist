@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B50ACDF9-ECCD-429E-9835-D0A056307D2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECFFE169-EA41-494B-91D0-4FD72E9088D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RickMortyApp/CharacterView/CharacterDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ECFFE169-EA41-494B-91D0-4FD72E9088D6 - 8e6b6458074cc07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RickMortyApp.CharacterDetailView.body.getter : some"
+                  moduleName = "RickMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bakarkharabadze/Desktop/TBC%20ios/RickMortyApp/RickMortyApp/CharacterView/CharacterDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "ECFFE169-EA41-494B-91D0-4FD72E9088D6 - af268c422b5c92f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in RickMortyApp.CharacterDetailView.body.getter : some"
+                  moduleName = "RickMortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bakarkharabadze/Desktop/TBC%20ios/RickMortyApp/RickMortyApp/CharacterView/CharacterDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
